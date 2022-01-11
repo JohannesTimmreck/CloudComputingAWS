@@ -1,0 +1,3 @@
+Because we used was the NoSQL-database DyanmoDB we don't really have a strict schema as that.
+We used 1 table(Campus) to track the different Campuses we support with 4 columns(Name, Location, Opening Hours, Team).
+
